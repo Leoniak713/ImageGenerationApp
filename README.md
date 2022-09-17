@@ -17,5 +17,5 @@ If you are using a different method, make sure to **activate your env** and **ch
 
 Run dashboard with the folllowing command:
 ```shell
-(VENV_NAME) $ python app/run.py
+(VENV_NAME) $ python run.py
 ``` 
