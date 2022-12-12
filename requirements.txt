@@ -1,2 +1,4 @@
 dash==2.6.1
+diffusers==0.3.0
 pandas==1.4.4
+torch==1.12.1
